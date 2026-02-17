@@ -537,8 +537,8 @@ img {
 
 .modal-overlay.is-open {
   opacity: 1;
-  visibility: visible;
-  pointer-events: auto;
+  visibility: hidden;
+  pointer-events: none;
 }
 
 .modal {
