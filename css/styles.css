@@ -736,11 +736,12 @@ img {
 
 .privacy-link {
   color: #4d5ae5;
+  text-decoration: underline;
 }
 
 .form-label {
   font-size: 12px;
-  line-height: 1.17;
+  line-height: 1.33;
   letter-spacing: 0.04em;
   color: #8e8f99;
   display: block;
